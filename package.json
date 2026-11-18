@@ -1,0 +1,16 @@
+{
+  "name": "discorbit-site",
+  "version": "2.0.0",
+  "description": "Discorbit LLC company website: Amazon wholesale retail",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
